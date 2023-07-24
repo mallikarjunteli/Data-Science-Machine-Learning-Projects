@@ -1,2 +1,2 @@
-# Prediction-Diabetics
-Data Science Project
+# Data Science / Machine Learning Project
+# Patient diabetes Prediction
